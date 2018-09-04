@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.dianewoodbridge.medwatch.MedWatch"
+    tools:deviceIds="wear_round">
+
+    <TextView
+        android:id="@+id/text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <ImageView
+        android:src="@drawable/medication_bottle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:scaleType="centerCrop"
+        android:cropToPadding="false"
+        android:adjustViewBounds="false" />
+
+    <TextView
+        android:text="Synthroid"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/medName"
+        android:textColor="@color/black"
+        android:layout_marginLeft="75dp"
+        android:layout_marginRight="75dp"
+        android:layout_above="@+id/text"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:src="@drawable/start_button"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageButton"
+        android:scaleType="fitCenter"
+        android:background="@drawable/start_button"
+        android:adjustViewBounds="true"
+        android:cropToPadding="true"
+        android:layout_marginTop="20dp"
+        android:clickable="true"
+        android:elevation="0dp"
+        android:layout_below="@+id/text"
+        android:layout_centerHorizontal="true" />
+
+
+    <!--android:clickable="true"
+    android:onClick="startRecording"-->
+
+</RelativeLayout>

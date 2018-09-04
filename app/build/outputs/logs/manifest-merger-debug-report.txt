@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/350b6b6e1b1cb38fe949e733d037f361/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:percent:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/330a86bb6f8d47b0967d4f6c15c78769/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f4766599493b7ed007c76b39dd45d71f/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4b0589467b6bdb0da89b54242745ca02/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:wear:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/40f3ef8b06f35629918399c3a36ed3f2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b0e25d62d3c443828b0463b1757ae5da/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dd92a4518eb817ca586a350c920e3076/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fdb88b7c8746587cd46c5754aefd9b22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/999bab5218285d90cc10fbf58433ea38/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/769760605666f5e5ee92468878f79779/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/00670d92fabdf80ba75bc150c3338d4a/AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/38c0e4e2311bd6e26d2b71ddc2c5f2d6/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/08f93981854bb1c90201ce570d589559/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/773602b9beff8b5e1d6bcbd5de6e1a6b/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe158bc64ed42d9e23acf47126727d55/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+	package
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:3:5-46
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:1-50:12
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.type.watch
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:5:5-64
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:5:19-61
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:7:5-68
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:7:22-65
+uses-permission#android.permission.INTERNET
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:8:5-67
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:9:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:11:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:12:5-71
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:12:22-68
+application
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:18:5-48:19
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:9:5-13:19
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/350b6b6e1b1cb38fe949e733d037f361/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/350b6b6e1b1cb38fe949e733d037f361/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f4766599493b7ed007c76b39dd45d71f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f4766599493b7ed007c76b39dd45d71f/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/00670d92fabdf80ba75bc150c3338d4a/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/00670d92fabdf80ba75bc150c3338d4a/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:21:9-41
+	android:icon
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:20:9-43
+	android:allowBackup
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:19:9-35
+	android:theme
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:23:9-59
+service#com.amazonaws.mobileconnectors.s3.transferutility.TransferService
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:24:9-26:38
+	android:enabled
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:26:13-35
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:25:13-93
+uses-library#com.google.android.wearable
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:27:9-29:39
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:10:9-12:40
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:10:9-12:40
+	android:required
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:28:13-55
+meta-data#com.google.android.wearable.standalone
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:34:9-36:36
+	android:value
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:36:13-33
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:35:13-66
+activity#com.example.kevinwong.medwatch2.MainActivity
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:38:9-46:20
+	android:label
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:39:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:41:13-45:29
+action#android.intent.action.MAIN
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:42:17-69
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:44:17-77
+	android:name
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml:44:27-74
+uses-sdk
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.support:wearable:2.3.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/350b6b6e1b1cb38fe949e733d037f361/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-wearable-15.0.1.aar/350b6b6e1b1cb38fe949e733d037f361/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/330a86bb6f8d47b0967d4f6c15c78769/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:percent:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/percent-27.1.1.aar/330a86bb6f8d47b0967d4f6c15c78769/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f4766599493b7ed007c76b39dd45d71f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/f4766599493b7ed007c76b39dd45d71f/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4b0589467b6bdb0da89b54242745ca02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/4b0589467b6bdb0da89b54242745ca02/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:wear:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/40f3ef8b06f35629918399c3a36ed3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/40f3ef8b06f35629918399c3a36ed3f2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b0e25d62d3c443828b0463b1757ae5da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/b0e25d62d3c443828b0463b1757ae5da/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dd92a4518eb817ca586a350c920e3076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/dd92a4518eb817ca586a350c920e3076/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fdb88b7c8746587cd46c5754aefd9b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/fdb88b7c8746587cd46c5754aefd9b22/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/999bab5218285d90cc10fbf58433ea38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/999bab5218285d90cc10fbf58433ea38/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/769760605666f5e5ee92468878f79779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/769760605666f5e5ee92468878f79779/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/00670d92fabdf80ba75bc150c3338d4a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/00670d92fabdf80ba75bc150c3338d4a/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/38c0e4e2311bd6e26d2b71ddc2c5f2d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/38c0e4e2311bd6e26d2b71ddc2c5f2d6/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/08f93981854bb1c90201ce570d589559/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/08f93981854bb1c90201ce570d589559/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/773602b9beff8b5e1d6bcbd5de6e1a6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/773602b9beff8b5e1d6bcbd5de6e1a6b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe158bc64ed42d9e23acf47126727d55/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/fe158bc64ed42d9e23acf47126727d55/AndroidManifest.xml:20:5-44
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/kevinwong2014/Downloads/Medwatch2/app/src/main/AndroidManifest.xml
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] /Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/d3e09921d14417da6c74b78ef515510f/AndroidManifest.xml:24:13-58

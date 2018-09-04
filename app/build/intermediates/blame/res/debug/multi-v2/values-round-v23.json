@@ -1,0 +1,41 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-round-v23/values-round-v23.xml",
+            "map": [
+                {
+                    "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/values-round-v23/values.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,115,176,239,320,405,453,528,605,691",
+                        "endColumns": "59,60,62,80,84,47,74,76,85,79",
+                        "endOffsets": "110,171,234,315,400,448,523,600,686,766"
+                    }
+                },
+                {
+                    "source": "/Users/kevinwong2014/Downloads/Medwatch2/app/src/main/res/values-round/strings.xml",
+                    "from": {
+                        "startLines": "1,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "16,62,121",
+                        "endColumns": "45,58,60",
+                        "endOffsets": "57,116,177"
+                    },
+                    "to": {
+                        "startLines": "12,13,14",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "771,817,876",
+                        "endColumns": "45,58,60",
+                        "endOffsets": "812,871,932"
+                    }
+                }
+            ]
+        }
+    ]
+}
