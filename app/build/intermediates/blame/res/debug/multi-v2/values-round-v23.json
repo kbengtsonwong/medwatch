@@ -21,18 +21,18 @@
                 {
                     "source": "/Users/kevinwong2014/Downloads/Medwatch2/app/src/main/res/values-round/strings.xml",
                     "from": {
-                        "startLines": "1,2,3",
-                        "startColumns": "4,4,4",
-                        "startOffsets": "16,62,121",
-                        "endColumns": "45,58,60",
-                        "endOffsets": "57,116,177"
+                        "startLines": "1,-1,-1",
+                        "startColumns": "4,-1,-1",
+                        "startOffsets": "16,-1,-1",
+                        "endColumns": "46,-1,-1",
+                        "endOffsets": "58,-1,-1"
                     },
                     "to": {
                         "startLines": "12,13,14",
                         "startColumns": "4,4,4",
-                        "startOffsets": "771,817,876",
-                        "endColumns": "45,58,60",
-                        "endOffsets": "812,871,932"
+                        "startOffsets": "771,818,877",
+                        "endColumns": "46,58,60",
+                        "endOffsets": "813,872,933"
                     }
                 }
             ]

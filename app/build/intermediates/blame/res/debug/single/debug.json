@@ -28,12 +28,12 @@
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/769760605666f5e5ee92468878f79779/res/drawable/notification_icon_background.xml"
     },
     {
-        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
-        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/res/color/common_google_signin_btn_text_dark.xml"
-    },
-    {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-v23_preference_wrapped_icon.xml.flat",
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/drawable-v23/preference_wrapped_icon.xml"
+    },
+    {
+        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/color_common_google_signin_btn_text_dark.xml.flat",
+        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/res/color/common_google_signin_btn_text_dark.xml"
     },
     {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/layout_ws_single_page_nav_drawer_7_item.xml.flat",
@@ -64,12 +64,12 @@
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/drawable-mdpi-v4/card_frame.9.png"
     },
     {
-        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_card_frame_pressed.9.png.flat",
-        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/drawable-hdpi-v4/card_frame_pressed.9.png"
-    },
-    {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/769760605666f5e5ee92468878f79779/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_card_frame_pressed.9.png.flat",
+        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/drawable-hdpi-v4/card_frame_pressed.9.png"
     },
     {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_ws_switch_thumb_mtrl_15w.png.flat",
@@ -120,12 +120,12 @@
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/res/drawable/ws_ic_expand_less_white_22.xml"
     },
     {
-        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
-        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/res/drawable/common_google_signin_btn_text_light_normal.xml"
-    },
-    {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/layout_ws_navigation_drawer_item_view.xml.flat",
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/res/layout/ws_navigation_drawer_item_view.xml"
+    },
+    {
+        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_light_normal.xml.flat",
+        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/res/drawable/common_google_signin_btn_text_light_normal.xml"
     },
     {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_ws_switch_thumb_mtrl_16w.png.flat",
@@ -144,12 +144,12 @@
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/res/drawable-xhdpi-v4/ws_switch_thumb_mtrl_14w.png"
     },
     {
-        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ws_switch_thumb_mtrl_15w.png.flat",
-        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/res/drawable-xxhdpi-v4/ws_switch_thumb_mtrl_15w.png"
-    },
-    {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_start_button.png.flat",
         "source": "/Users/kevinwong2014/Downloads/Medwatch2/app/src/main/res/drawable/start_button.png"
+    },
+    {
+        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ws_switch_thumb_mtrl_15w.png.flat",
+        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wear-27.1.1.aar/822ebf58233101770a8faa34fc3576f2/res/drawable-xxhdpi-v4/ws_switch_thumb_mtrl_15w.png"
     },
     {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_notification_bg_low.xml.flat",
@@ -244,12 +244,12 @@
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/layout-v23/wearable_drawer_view.xml"
     },
     {
-        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-v21_ic_expand_more_white_22.xml.flat",
-        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/drawable-v21/ic_expand_more_white_22.xml"
-    },
-    {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_full_open_on_phone.png.flat",
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/21d7dfe55a4053167c379184e3b92d03/res/drawable-xhdpi-v4/common_full_open_on_phone.png"
+    },
+    {
+        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable-v21_ic_expand_more_white_22.xml.flat",
+        "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/drawable-v21/ic_expand_more_white_22.xml"
     },
     {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_ws_action_item_background.xml.flat",
@@ -300,12 +300,12 @@
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/769760605666f5e5ee92468878f79779/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_stop_button.png.flat",
-        "source": "/Users/kevinwong2014/Downloads/Medwatch2/app/src/main/res/drawable/stop_button.png"
-    },
-    {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/layout_navigation_drawer_view.xml.flat",
         "source": "/Users/kevinwong2014/.gradle/caches/transforms-1/files-1.1/wearable-2.3.0.aar/374c943aad0ac51bdcad904828911b55/res/layout/navigation_drawer_view.xml"
+    },
+    {
+        "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/drawable_stop_button.png.flat",
+        "source": "/Users/kevinwong2014/Downloads/Medwatch2/app/src/main/res/drawable/stop_button.png"
     },
     {
         "merged": "/Users/kevinwong2014/Downloads/Medwatch2/app/build/intermediates/res/merged/debug/layout_notification_template_media_custom.xml.flat",

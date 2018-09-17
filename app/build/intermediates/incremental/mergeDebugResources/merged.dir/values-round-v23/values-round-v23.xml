@@ -10,7 +10,7 @@
     <dimen name="diag_preferred_padding">@dimen/screen_percentage_15</dimen>
     <item name="confirmation_overlay_margin_above_text" type="fraction">4.167%</item>
     <item name="confirmation_overlay_margin_side" type="fraction">18.75%</item>
-    <string name="app_name">MedWatch</string>
+    <string name="app_name">MedWatch2</string>
     <string name="hello_round">Hello Round World!</string>
     <string name="hello_square">Hello Square World!</string>
 </resources>

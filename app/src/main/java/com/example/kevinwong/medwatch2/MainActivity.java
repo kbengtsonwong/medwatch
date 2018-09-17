@@ -114,6 +114,16 @@ public class MainActivity extends WearableActivity implements SensorEventListene
         
         // Enables Always-on
         setAmbientEnabled();
+
+        // create storage directory if the directory does not already exist
+        File directory = new File(Environment.getExternalStorageDirectory(), "MedWatch");
+        if (!directory.exists()) {
+            Log.d("LOG", "Unable to find MedWatch directory.  Creating new directory.");
+            directory.mkdirs();
+        }
+        else {
+            Log.d("LOG", "MedWatch directory already exists.");
+        }
         
         // initialize sensors
         getDefaultActivitySensors();
